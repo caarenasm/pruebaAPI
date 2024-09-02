@@ -1,0 +1,10 @@
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/BackendApplication.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/controller/EmpleadoController.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/controller/InicioController.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/dto/EmpleadoDto.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/dto/RequestDto.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/dto/RespuestaDto.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/jpa/entity/EmpleadoEntity.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/jpa/repository/EmpleadoRepository.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/service/IEmpleadoService.java
+/home/a/Escritorio/prueba/backend/src/main/java/prueba/backend/service/implementation/EmpleadoService.java
